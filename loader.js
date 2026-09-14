@@ -1,0 +1,1 @@
+(function(){const l=document.getElementById('app-loader');if(!l)return;const finish=()=>{l.style.opacity='0';l.style.pointerEvents='none';setTimeout(()=>l.remove(),650)};window.addEventListener('load',()=>setTimeout(finish,2600));setTimeout(finish,5000);if(window.matchMedia('(prefers-reduced-motion: reduce)').matches)setTimeout(finish,300)})();

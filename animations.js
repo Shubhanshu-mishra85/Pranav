@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',()=>{const els=document.querySelectorAll('.reveal,.feature-card,.steps article,.education-grid article');const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('reveal');io.unobserve(e.target)}}),{threshold:.08});els.forEach(e=>io.observe(e));});
