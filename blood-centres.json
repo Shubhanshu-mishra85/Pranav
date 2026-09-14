@@ -1,0 +1,5 @@
+[
+{"name":"Prototype Blood Resource Centre A","location":"Lucknow, Uttar Pradesh","city":"Lucknow","phone":"+915224000001","bloodGroups":["A+","B+","O+","O-"],"components":["RBC","Platelets","Plasma"],"lastUpdated":"Prototype data"},
+{"name":"Prototype Blood Resource Centre B","location":"Aliganj, Lucknow, Uttar Pradesh","city":"Lucknow","phone":"+915224000002","bloodGroups":["A+","AB+","B-","O+"],"components":["RBC","Plasma"],"lastUpdated":"Prototype data"},
+{"name":"Prototype Blood Resource Centre C","location":"Gomti Nagar, Lucknow, Uttar Pradesh","city":"Lucknow","phone":"+915224000003","bloodGroups":["A-","B+","AB-","O+"],"components":["Platelets","RBC"],"lastUpdated":"Prototype data"}
+]

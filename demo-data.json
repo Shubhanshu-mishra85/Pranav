@@ -1,0 +1,1 @@
+{"label":"Prototype / Demo Data","demand":{"A+":70,"B+":45,"O+":85,"O-":55,"AB+":65,"AB-":38},"heatmap":[{"district":"Demo District 1","level":"High"},{"district":"Demo District 2","level":"Medium"},{"district":"Demo District 3","level":"Low"}],"note":"Not live data. Do not use for clinical decisions."}
